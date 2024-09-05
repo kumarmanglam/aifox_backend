@@ -1,7 +1,3 @@
 
-
-
-
-
-console.log("Hello Akansha");
+console.log('yoyo')
 
